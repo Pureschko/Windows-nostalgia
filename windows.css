@@ -1,0 +1,84 @@
+body {
+    font-family: Helvetica;
+    font-size: 15px;
+}
+body {
+    background-image: url('https://img.freepik.com/free-photo/photorealistic-style-clouds_23-2151058930.jpg?t=st=1723726466~exp=1723730066~hmac=a32cacbb9a99b7790b371a2cb617ee0a2281472c0c9b760363de43a3b4baded7&w=900');
+    background-repeat: no-repeat;
+    background-color: #63A3D2;
+  }
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #C0C0C0;
+    border:none;
+    border-radius: 4px;
+    width: 420px;
+    padding: 20px;
+    border: 2px white solid; 
+    border-bottom: 3px #424242 solid;
+    border-right: 3px #424242 solid ;
+    margin-right: 90px;
+}
+
+.popup-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.background {
+    width: 2000px;
+    height: 30px;
+    margin-right: -40px;
+    transform: translate(-20px, -20px);
+    background: linear-gradient(to right,#0F2767, #ACCDF1);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.popup-header p {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 6px 25px;
+    color: #ffffff
+}
+
+.img {
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+    object-position: center;
+    filter: drop-shadow(2px 2px 2px #6c6c6c);
+    image-rendering: pixelated;
+  }
+
+  
+.popup-content {
+  padding: 1px; 
+    
+}
+
+.popup-button {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.cancel-button {
+    padding: 8px 16px;
+    
+}
+
+.cancel-button {
+    background-color: #C0C0C0;
+    margin-right: 10px;
+    border: solid 3px white;
+    border-bottom: solid 3px  black; 
+    border-right: solid 3px black;
+}
+
