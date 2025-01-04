@@ -6,6 +6,8 @@ body {
     background-image: url('https://img.freepik.com/free-photo/photorealistic-style-clouds_23-2151058930.jpg?t=st=1723726466~exp=1723730066~hmac=a32cacbb9a99b7790b371a2cb617ee0a2281472c0c9b760363de43a3b4baded7&w=900');
     background-repeat: no-repeat;
     background-color: #63A3D2;
+    background-size: cover; 
+    background-position: center;
   }
 .popup {
     position: fixed;
