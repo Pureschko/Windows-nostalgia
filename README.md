@@ -19,5 +19,5 @@ As part of my web development training, I developed an Old Windows-style popup u
 
 ### 📷 Screenshots
 
-<a href="https://github.com/inna-shchokina/time-machine/blob/master/Screens_Time_machine/Time_machine.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Interface Screenshot</a>                 
+<a href="https://github.com/inna-shchokina/Windows-nostalgia/blob/master/Screen_Windows/Windows.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Interface Screenshot</a>                 
 
